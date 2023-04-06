@@ -32,13 +32,13 @@ Presently, Dhenu can :
 #### Kernel : Arch Official Kernels (linux, zen, lts, hardened) (recommended) or custom kernels
 
 
-#### Java : JavaSE-17 (made with openjdk-17)
+#### Python : python3.9+ (made with python3.10)
 
 
-#### GCC : v11.0+ (compiled cowbot with gcc 12.2)
+#### GCC : v11.0+
 
 
-#### Database : MariaDB-10.9+ (Recommended) or MySQL-8.0+
+#### Database : MariaDB-10.9+ (Recommended) or MySQL-8.0+ (optional but recommended)
 
 
 #### Dependencies : pacman, paru for installing other dependencies
@@ -71,6 +71,6 @@ cowbot-uninstall
 
 **Programming languages used : Python, Shell, SQL**
 
-**For issues/feedback contact me @ `yashlakhtariya1010@gmail.com`**
+**For issues/feedback contact us @ `cowbot.ysl@gmail.com`**
 
-### Upgrade to Advanced/Premium AI Assistant LEOBOT, speaking lion instead of cow! Contact me to buy @ https://t.me/soul4Krishna or mail me at above address
+### Upgrade to Advanced/Premium AI Assistant LEOBOT, speaking lion instead of cow! Contact us to buy at above mail address

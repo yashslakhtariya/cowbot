@@ -6,8 +6,11 @@ Cowbot is extremely easy to use. Just type specific KEYWORDS in your sentence to
 Presently, Dhenu can :
 
     • google search on your terminal
+    • wiki mode for ChatGPT on your terminal
+    • download files from link
     • video search on your terminal
     • manage efficiently history of commands via DBMS
+    • get intelligent AI suggestions for using it like a pro!
     • run custom query on cowbot database
     • get time, date, month, year
     • open, install or uninstall softwares

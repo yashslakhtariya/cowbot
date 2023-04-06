@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Cowbot
+Type=Application
+Exec=cowbot
+Icon=/usr/share/cowbot/cowbot.png
+Terminal=true
+Categories=Applications
+Comment=AI Linux Assistant by Yash Lakhtariya
